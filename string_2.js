@@ -26,6 +26,6 @@ console.log(stringTeste1.concat('Tenho 19 anos')) // adiciona substring a string
 console.log(stringTeste1.startsWith(' ')) // retorna se COMEÇA com o caracter especificado no modulo
 console.log(stringTeste1.endsWith('s')) // retorna se TERMINA com o caracter especificado no modulo
 console.log(stringTeste1.search('Murillo')) // retorna o valor do indice do 1° caracter especificado na string
-console.log(stringTeste1.match('nome'))
+console.log(stringTeste1.match('nome')) // retorna quantidade
 console.log(stringTeste1.repeat(2))// repete a string quantas vezes você pedir
 
